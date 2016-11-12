@@ -8,7 +8,7 @@
  * Controller of the homeApp
  */
 
-angular.module('yoApp')
+angular.module('homeApp')
   .controller('MainCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
